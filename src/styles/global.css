@@ -5,4 +5,5 @@ html {
 h1 {
   text-align: center;
   color: rgb(254, 219, 112);
+  display: block;
 }
